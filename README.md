@@ -3,7 +3,7 @@
 Java Program to simulate ATM machine routines.
 Features included in the program:
 
-1.Checking Validity of the card and validity of the pin.\n
+1.Checking Validity of the card and validity of the pin.
 2.Withdrawl and deposit transaction flow of ATM.
 3.Selection of account type.
 4.Authentication of the user’s account.
